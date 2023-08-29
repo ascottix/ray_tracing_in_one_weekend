@@ -4,6 +4,10 @@ This is a Go implementation of the raytracer described in the book [_Ray Tracing
 
 It can render all images described in the book, that's why you'll find some duplicated code.
 
+Here's the final image rendered with a generous amount of rays per pixel:
+
+![Final image](https://ascottix.github.io/rtiow/rtiow_final_large.png)
+
 To generate an image run:
 
 > go run . [image_number]
